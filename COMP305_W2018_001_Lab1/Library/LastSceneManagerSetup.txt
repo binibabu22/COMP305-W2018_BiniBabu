@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lab1_Bini_Babu_300877544.unity
+  isLoaded: 1
+  isActive: 1
